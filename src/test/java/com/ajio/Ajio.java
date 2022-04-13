@@ -1,6 +1,6 @@
 package com.ajio;
 
-import org.openqa.selenium.WebDriver;
+/*import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import com.ajio.genericUtility.CommonPropertyUtility;
@@ -60,4 +60,4 @@ public class Ajio {
 		
 		CommonWebDriverUtility.closeAllWindows(driver);
 	}
-}
+}*/
